@@ -19,7 +19,7 @@ Aqui você encontrará instruções sobre os requisitos necessários para replic
 Neste repositório você encontrará duas pastas:
 - data
   - onde se encontram os arquivos com os datasets
-- catboostinfo
+- catboost_info
   - onde se encontram os arquivos gerados automaticamente pelo catboost
 <br>
 
